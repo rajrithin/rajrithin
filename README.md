@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rajrithin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Booming Techtools
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me ...
 
 <!---
