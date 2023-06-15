@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajrithin
-- 👀 I’m interested in Booming Techtools
+- 👀 I’m interested in Booming Tech
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me ...
 
